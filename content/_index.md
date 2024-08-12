@@ -11,4 +11,7 @@ In addition to my research endeavors, I have a strong background in full stack d
 
 Do check out my [projects!](/projects)
 
+In my free time you will find me either doing music production or endlessly configuring my Arch Linux and Neovim.
+You can find all of my configs on my [Github](https://github.com/hrsvrn).
+
 Thank you for visiting!
