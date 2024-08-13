@@ -10,11 +10,13 @@ theme = "toggle"
 socials = [
     { name = "github", url = "https://github.com/hrsvrn/", icon = "github" },
     { name = "linkedin", url = "https://www.linkedin.com/in/harshvardhanvatsa/", icon = "linkedin" },
+
 ]
 
 menu = [
   { name = "/projects", url = "/projects", weight = 1 },
   { name = "/skills", url = "/skills", weight = 1 },
+  { name = "/resume", url = "/resume", weight = 1 },
 ]
 
 # See this for more options: https://github.com/not-matthias/apollo/blob/main/config.toml#L14
