@@ -3,15 +3,17 @@ title= "Harshvardhan Vatsa"
 template = "homepage.html"
 +++
 
-Hi! 
+Hi!
 
-I’m Harshvardhan Vatsa, a pre-final year undergraduate student majoring in Computer Science at [Vellore Institute of Technology](https://vit.ac.in/). My academic journey revolves around the fascinating realms of Deep Learning, Machine Learning, and Generative AI, where I am deeply involved in research and exploration.
+I’m Harshvardhan Vatsa, a pre-final year Computer Science undergraduate at Vellore Institute of Technology. My research and job endevours centers around Computer Vision, Pattern Recognition, and Deep Learning.
 
-In addition to my research endeavors, I have a strong background in full stack development with expertise in JavaScript and Python. My technical skills enable me to design and implement robust solutions across various platforms.
+Currently I am interning at [Monkhub](https://monkhub.com/) as a Data Scientist
 
-Do check out my [projects!](/projects)
+Outside academics, I enjoy composing music and playing video games 
 
-In my free time you will find me either doing music production or endlessly configuring my Arch Linux and Neovim.
-You can find all of my configs on my [Github](https://github.com/hrsvrn).
+my projects are available on my [github](https://github.com/hrsvrn).
+also do check out my deep learning blogs in the [posts](/posts) sections.
+
+you can contact me at firstnamelastname@gmail.com
 
 Thank you for visiting!
