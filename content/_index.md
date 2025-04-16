@@ -9,10 +9,12 @@ I’m Harshvardhan Vatsa, a pre-final year Computer Science undergraduate at Vel
 
 Currently I am interning at [Monkhub](https://monkhub.com/) as a Data Scientist
 
+my projects are available on my [github](https://github.com/hrsvrn).
+
+Also do check out my deep learning blogs in the [posts](/posts) sections.
+
 Outside academics, I enjoy composing music and playing video games 
 
-my projects are available on my [github](https://github.com/hrsvrn).
-also do check out my deep learning blogs in the [posts](/posts) sections.
 
 you can contact me at firstnamelastname@gmail.com
 
